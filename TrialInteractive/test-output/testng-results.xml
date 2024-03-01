@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-27T13:22:08 IST" name="Default suite" finished-at="2024-02-27T13:23:11 IST" duration-ms="63546">
+    <groups>
+    </groups>
+    <test started-at="2024-02-27T13:22:08 IST" name="Default test" finished-at="2024-02-27T13:23:11 IST" duration-ms="63546">
+      <class name="com.mass.AddToCart">
+        <test-method signature="test()[pri:0, instance:com.mass.AddToCart@7674f035]" started-at="2024-02-27T13:22:08 IST" name="test" finished-at="2024-02-27T13:23:11 IST" duration-ms="63509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.mass.AddToCart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
